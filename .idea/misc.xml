@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/circle.xml" value="0.212" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.279" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_exclamation.xml" value="0.178" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_instagram.xml" value="0.1325" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_shopping_cart_add.xml" value="0.1545" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_shopping_cart_added.xml" value="0.1545" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_star.xml" value="0.1545" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_trash.xml" value="0.279" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/ic_user.xml" value="0.1515" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/rect_curved.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/rect_curved_outlined.xml" value="0.157" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/rect_curved_selected_action_mode.xml" value="0.1295" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/rect_curved_start.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/drawable/rect_curved_top.xml" value="0.1395" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/activity_search.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/error.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_all_courses.xml" value="0.16891891891891891" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_cart.xml" value="0.16891891891891891" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_course_details.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_filter.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_reviews.xml" value="0.16891891891891891" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_search.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/fragment_wishlist.xml" value="0.17804054054054055" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course_cart.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course_category_home.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course_courses_list.xml" value="0.17804054054054055" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course_home.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_course_horizontal.xml" value="0.16891891891891891" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_instructor.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_lecture.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_review.xml" value="0.17804054054054055" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/item_top_search.xml" value="0.16891891891891891" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/layout/rect_curved.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EduApp/app/src/main/res/menu/wishlist_contextual_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

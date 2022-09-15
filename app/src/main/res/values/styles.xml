@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="CurvedRect">
+        <item name="cornerSize">4%</item>
+    </style>
+
+    <style name="TopCurvedRect">
+        <item name="cornerSizeTopRight">4%</item>
+        <item name="cornerSizeTopLeft">4%</item>
+    </style>
+
+    <style name="LeftCurvedRect">
+        <item name="cornerSizeBottomLeft">4%</item>
+        <item name="cornerSizeTopLeft">4%</item>
+    </style>
+
+    <style name="CustomChip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="backgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">@color/chip_text_color</item>
+    </style>
+
+    <style name="CustomFavChip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="backgroundColor">@color/chip_fav_background_color</item>
+        <item name="android:textColor">@color/chip_fav_text_color</item>
+        <item name="checkedIconTint">@color/chip_fav_text_color</item>
+    </style>
+</resources>

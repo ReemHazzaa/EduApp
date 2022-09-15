@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_818181">#818181</color>
+
+    <color name="primaryColor">#034d8b</color>
+    <color name="primaryLightColor">#4b78bb</color>
+    <color name="primaryDarkColor">#034D8C</color>
+
+    <color name="secondaryColor">#c9b35b</color>
+    <color name="secondaryLightColor">#fee58a</color>
+    <color name="secondaryDarkColor">#96842d</color>
+
+    <color name="primaryTextColor">@color/white</color>
+    <color name="secondaryTextColor">@color/black</color>
+
+    <color name="text_color_on_dark">@color/white</color>
+    <color name="text_color_on_light">@color/black</color>
+    <color name="grey_E3E2E5">#E3E2E5</color>
+    <color name="red_AE2103">#AE2103</color>
+    <color name="green_067369">#067369</color>
+    <color name="darkGrey">#4B4B4B</color>
+
+    <color name="chip_background_checked">#82A9E2</color>
+    <color name="chip_background_default">@color/grey_E3E2E5</color>
+    <color name="chip_text_color_checked">@color/primaryColor</color>
+    <color name="chip_text_color_default">@color/darkGrey</color>
+
+    <color name="chip_fav_background_checked">#30E46A50</color>
+    <color name="chip_fav_text_color_checked">@color/red_AE2103</color>
+
+    <color name="action_mode_selected">@color/chip_background_checked</color>
+</resources>

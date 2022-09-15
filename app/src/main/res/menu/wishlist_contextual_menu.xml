@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/delete_wishlist_menu"
+        android:icon="@drawable/ic_round_delete"
+        android:title="@string/delete_wishlist_menu"
+        app:showAsAction="ifRoom"
+        tools:targetApi="o" />
+</menu>

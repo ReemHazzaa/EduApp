@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rect_curved"
+        android:backgroundTint="@color/white"
+        android:elevation="10dp"
+        android:orientation="horizontal">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/iv_course"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+
+                android:elevation="10dp"
+                android:layout_margin="8dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/guideline"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/music_and_multimedia" />
+
+        <TextView
+            android:id="@+id/tv_lecture_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+           android:layout_marginHorizontal="4dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            tools:text="Django Article Analyzer WebApp Version_1" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</layout>
