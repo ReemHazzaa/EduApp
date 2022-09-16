@@ -34,6 +34,6 @@ It has different theme for dark mode.
 - [View Binding](https://developer.android.com/topic/libraries/view-binding)
 
 ### Todo
-- [x] Paging
+- [ ] Paging
 ## Screenshots
-<kbd><img width="216" height="432" src="https://github.com/ReemHazzaa/EduApp/blob/master/Pics/allCoursesDark.png" 
+<kbd><img width="216" height="432" src="Pics/allCoursesDark.png" 
