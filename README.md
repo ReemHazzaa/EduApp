@@ -17,7 +17,7 @@ It has different theme for dark mode.
 - Wishlist courses
 - Cart logic
 - Cache courses for offline better experience
-- Dart mode support
+- Darن mode support
 
 ## Tech
 - [Navigation component](https://developer.android.com/guide/navigation?gclid=Cj0KCQjwmouZBhDSARIsALYcouoEzVh473bVV4ZKen9DrESxlnro7zH0Ue17y8ItumGVs558UFtPZLMaArvcEALw_wcB&gclsrc=aw.ds) - App navigation -> Single activity concept.
