@@ -36,4 +36,31 @@ It has different theme for dark mode.
 ### Todo
 - [ ] Paging
 ## Screenshots
+### Light theme
+<kbd><img width="216" height="432" src="Pics/homeLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/allCoursesLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/cartEmptyLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/cartFullLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/courseDetailsLight1.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/courseDetailsLight2.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/searchLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/wishlistEmptyLight.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/wishlistFullLight.png"></kbd>
+
+### Dark theme
+<kbd><img width="216" height="432" src="Pics/homeDark.png"></kbd>
 <kbd><img width="216" height="432" src="Pics/allCoursesDark.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/searchEmptyDark.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/searchFullDark.png"></kbd>
+
+<kbd><img width="216" height="432" src="Pics/courseDetailsDark1.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/courseDetailsDark2.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/courseDetailsDark3.png"></kbd>
+
+<kbd><img width="216" height="432" src="Pics/cartEmptyDark.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/cartFullDark.png"></kbd>
+
+<kbd><img width="216" height="432" src="Pics/wishlistEmptyDark.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/wishlistFullDark.png"></kbd>
+<kbd><img width="216" height="432" src="Pics/multiselection.png"></kbd>
+
