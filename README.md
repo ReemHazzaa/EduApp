@@ -36,4 +36,4 @@ It has different theme for dark mode.
 ### Todo
 - [ ] Paging
 ## Screenshots
-<kbd><img width="216" height="432" src="Pics/allCoursesDark.png"</kbd>
+<kbd><img width="216" height="432" src="Pics/allCoursesDark.png"></kbd>
