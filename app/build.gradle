@@ -37,6 +37,7 @@ android {
         viewBinding true
         dataBinding true
     }
+    namespace 'com.reemmousa.eduapp'
 }
 
 dependencies {
