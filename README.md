@@ -22,7 +22,7 @@ It has different theme for dark mode.
 ## Tech
 - [Navigation component](https://developer.android.com/guide/navigation?gclid=Cj0KCQjwmouZBhDSARIsALYcouoEzVh473bVV4ZKen9DrESxlnro7zH0Ue17y8ItumGVs558UFtPZLMaArvcEALw_wcB&gclsrc=aw.ds) - App navigation -> Single activity concept.
 - [Safe Args](https://developer.android.com/guide/navigation/navigation-pass-data) - For type-safe passing objects between screens.
-- [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - For dependency injecetion.
+- [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - For dependency injection.
 - [Picasso](https://github.com/square/picasso) - Image loading.
 - [Room](https://www.google.com/aclk?sa=l&ai=DChcSEwi9grKR_Zf6AhXL29UKHXDAAQEYABAAGgJ3cw&sig=AOD64_0mj-zhfeWtng8VaNttu5jtKW8Rrg&q&adurl&ved=2ahUKEwiCmauR_Zf6AhURGewKHVeZCdgQ0Qx6BAgEEAE) - Caching and saving wishlist & cart items.
 - [Retrofit](https://square.github.io/retrofit/) - Network.
@@ -33,8 +33,6 @@ It has different theme for dark mode.
 - [Viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel?gclid=Cj0KCQjwmouZBhDSARIsALYcouowU4bI_Dxt9XRlsd4-qAblwn2Vk3jgw86XJFJdhJuraSbTxzGNgwMaAvejEALw_wcB&gclsrc=aw.ds)
 - [View Binding](https://developer.android.com/topic/libraries/view-binding)
 
-### Todo
-- [ ] Paging
 ## Screenshots
 ### Light theme
 <kbd><img width="216" height="432" src="Pics/homeLight.png"></kbd>
