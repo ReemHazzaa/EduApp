@@ -27,7 +27,6 @@ class HomeFragment : Fragment() {
 
     private val binding get() = _binding!!
     private val homeViewModel: HomeViewModel by viewModels()
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -45,7 +44,6 @@ class HomeFragment : Fragment() {
 
         return root
     }
-
     private fun requestApiData() {
         Log.i(TAG, "requestApiData called")
         homeViewModel.getAllCourses()
@@ -130,7 +128,14 @@ class HomeFragment : Fragment() {
                 loadDataFromCacheWhenOnline()
             }
         }
+        binding.tvPrivacyPolicy.setOnClickListener {
+            openPrivacyPolicy()
+        }
         setClickListeners()
+    }
+
+    private fun openPrivacyPolicy() {
+        requireContext().viewLink(Constants.PRIVACY_POLICY_URL)
     }
 
     private fun setClickListeners() {

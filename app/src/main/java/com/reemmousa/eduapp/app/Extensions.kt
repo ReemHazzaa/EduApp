@@ -124,3 +124,12 @@ fun View.visible() {
 fun View.gone() {
     this.visibility = View.GONE
 }
+fun Context.viewLink(url: String) {
+    try {
+        val browserIntent =
+            Intent(Intent.ACTION_VIEW, Uri.parse(url))
+        startActivity(browserIntent)
+    } catch (e: Exception) {
+        Log.e(TAG, e.message, e)
+    }
+}

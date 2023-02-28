@@ -40,4 +40,5 @@ object Constants {
     const val WISHLIST_TABLE = "wishlist_table"
     const val CART_TABLE = "cart_table"
 
+    const val PRIVACY_POLICY_URL = "https://app.termly.io/dashboard/website/4e330de6-6129-416a-bebc-afc50782465d/privacy-policy#infosafe"
 }
